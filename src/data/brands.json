@@ -1,0 +1,30 @@
+{
+  "samsung_cell": [
+    {
+      "label": "Galaxy",
+      "value": "gm"
+    },
+    {
+      "label": "J",
+      "value": "j"
+    }
+  ],
+  "samsung_tv": [
+    {
+      "label": "32'",
+      "value": "32-inch"
+    },
+    {
+      "label": "42'",
+      "value": "42-inch"
+    },
+    {
+      "label": "47'",
+      "value": "47-inch"
+    },
+    {
+      "label": "52'",
+      "value": "52-inch"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "cells": [
+    {
+      "label": "Samsung",
+      "value": "samsung_cell"
+    },
+    {
+      "label": "LG",
+      "value": "lg_cell"
+    },
+    {
+      "label": "Huawuei",
+      "value": "huawei"
+    },
+    {
+      "label": "HTC",
+      "value": "htc"
+    },
+    {
+      "label": "Motorola",
+      "value": "moto"
+    }
+  ],
+  "tvs": [
+    {
+      "label": "Samsung",
+      "value": "samsung_tv"
+    },
+    {
+      "label": "LG",
+      "value": "lg_tv"
+    },
+    {
+      "label": "Daewoo",
+      "value": "daewoo"
+    }
+  ],
+  "wash-mashine": [],
+  "audio-component": [],
+  "fridges": []
+}

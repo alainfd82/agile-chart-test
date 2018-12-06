@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Celulares",
+    "value": "cells"
+  },
+  {
+    "label": "Televisores",
+    "value": "tvs"
+  },
+  {
+    "label": "Lavadoras",
+    "value": "wash-mashine"
+  },
+  {
+    "label": "Reproductores de musica",
+    "value": "audio-component"
+  },
+  {
+    "label": "Refrigeradores",
+    "value": "fridges"
+  }
+]
